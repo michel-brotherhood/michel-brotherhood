@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Partner+%26+Tech+Lead;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+PHP;Flutter+%7C+PostgreSQL+%7C+REST+APIs;Linux+%7C+Docker+%7C+Cloud+%7C+Datadog;AI+Enthusiast+%7C+Automation+%7C+Agents;Product+Engineering+%7C+Gamification;Exploring+C%2B%2B+%26+Unreal+Engine"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=%26+Tech+Lead;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+PHP;Flutter+%7C+PostgreSQL+%7C+REST+APIs;Linux+%7C+Docker+%7C+Cloud+%7C+Datadog;AI+Enthusiast+%7C+Automation+%7C+Agents;Product+Engineering+%7C+Gamification;Exploring+C%2B%2B+%26+Unreal+Engine"
       alt="Typing SVG"
     />
   </a>
