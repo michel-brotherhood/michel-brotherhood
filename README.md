@@ -22,13 +22,13 @@
 
 ## About me
 
-I'm a **Partner & Tech Lead** working at the intersection of software engineering, product development and technology strategy.
+I'm a **FllStck** working at the intersection of software engineering, product development and technology strategy.
 
 I work across the software delivery lifecycle — from architecture and development to infrastructure, deployment, observability and continuous product evolution.
 
 My core stack includes **JavaScript, TypeScript, Node.js, PHP, Flutter, PostgreSQL, Docker and Linux**, with a strong focus on cloud infrastructure, automation and developer productivity.
 
-I'm also an **AI enthusiast**, especially interested in AI-assisted development, LLMs, agents, automation and developer tooling.
+I'm also an **AI enthusias**, especially interested in AI-assisted development, LLMs, agents, automation and developer tooling.
 
 I also work with product strategy, gamification, prototyping and technical decision-making, connecting **business goals, product requirements and engineering execution**.
 
