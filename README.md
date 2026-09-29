@@ -21,6 +21,16 @@
 
 ---
 
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+    width="900"
+    alt="Developer animation"
+  />
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img
@@ -29,9 +39,6 @@
     />
   </a>
 </p>
-
-
-<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/2b947050-b164-4fb1-9bea-1635e73440b0" />
 
 ---
 
