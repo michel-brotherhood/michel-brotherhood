@@ -21,6 +21,20 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oyhnprje2dovy7m3arslf5gqim&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b400f5&bar_color_cover=false&mode=dark"
+      alt="Spotify"
+    />
+  </a>
+</p>
+
+
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/2b947050-b164-4fb1-9bea-1635e73440b0" />
+
+---
+
 ## About me
 
 I'm a **Full Stack Developer and Tech Lead** working across software engineering, product development and technology strategy.
