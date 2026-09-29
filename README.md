@@ -1,95 +1,65 @@
 <br clear="both">
 
-<div align="center">
-  <img
-    height="200"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlejBmdG0zcnl3MW4zZmU1OThwaG16aWh5ZGtuN2U4ajB2a200byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.gif"
-    alt="Coding animation"
-  />
-</div>
-
-<h1 align="center">Michel Brotherhood</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=950&lines=Partner+%26+Tech+Lead;Software+Engineering+%7C+Product+Engineering;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+PHP;PostgreSQL+%7C+REST+APIs+%7C+Integrations;Docker+%7C+Linux+%7C+Cloud+%7C+Datadog;AI+Engineering+%7C+LLMs+%7C+Agents+%7C+Automation;Gamification+%7C+Developer+Tooling;Exploring+C%2B%2B+%26+Unreal+Engine"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
----
+<!-- =========================================================
+     HERO
+========================================================= -->
 
 <div align="center">
+
+<img
+  height="190"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlejBmdG0zcnl3MW4zZmU1OThwaG16aWh5ZGtuN2U4ajB2a200byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.gif"
+  alt="Coding animation"
+/>
+
+# Michel Brotherhood
+<a href="https://git.io/typing-svg">
   <img
-    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
-    width="900"
-    alt="Developer animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=900&lines=JavaScript+%7C+TypeScript+%7C+Node.js+%7C+PHP;PostgreSQL+%7C+REST+APIs+%7C+Integrations;Docker+%7C+Linux+%7C+Cloud+%7C+Datadog;AI+Engineering+%7C+LLMs+%7C+Agents+%7C+Automation;Product+Engineering+%7C+Gamification;Exploring+C%2B%2B+%26+Unreal+Engine"
+    alt="Typing SVG"
   />
-</div>
+</a>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oyhnprje2dovy7m3arslf5gqim&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b400f5&bar_color_cover=false&mode=dark"
-      alt="Spotify"
-    />
-  </a>
-</p>
+<img
+  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+  width="900"
+  alt="Software development animation"
+/>
+
+</div>
 
 ---
 
-## About me
+## About
 
 I'm a **Full Stack Developer and Tech Lead** working across software engineering, product development and technology strategy.
 
-I build and evolve web applications from architecture and backend development to infrastructure, deployment, observability and production support.
+I build and evolve applications across the full software lifecycle — from **architecture, backend development and integrations to infrastructure, deployment, observability and production support**.
 
-My core stack includes **JavaScript, TypeScript, Node.js, PHP, PostgreSQL, Docker and Linux**, with experience in APIs, integrations, cloud environments and application operations.
+My core stack is centered around **JavaScript, TypeScript, Node.js, PHP and PostgreSQL**, supported by **Docker, Linux and cloud infrastructure**.
 
-I also work with **AI Engineering**, applying LLMs, agents and automation to software development, internal tools and engineering workflows.
+I also work with **AI Engineering**, applying LLMs, agents and automation to software products, internal tools, engineering workflows and developer productivity.
 
-Beyond implementation, I contribute to technical decision-making, product engineering, gamification and solution architecture, connecting business requirements with reliable engineering execution.
+Beyond implementation, I work with **technical architecture, product engineering, gamification and technology decisions**, connecting business requirements with maintainable and reliable software.
 
-Currently exploring **C++ and Unreal Engine** for game development, systems programming and technical experimentation.
-
----
-
-## What I Build
-
-- Full Stack web applications
-- REST APIs and backend services
-- Internal platforms and operational tools
-- Admin dashboards
-- Authentication and access-control flows
-- System and third-party integrations
-- PostgreSQL-backed applications
-- Dockerized production environments
-- Cloud and VPS infrastructure
-- AI-powered internal tools
-- LLM integrations and AI agents
-- Workflow automation
-- Gamified digital products
-- Responsive interfaces and product prototypes
+Currently exploring **C++ and Unreal Engine** for game development, real-time systems and lower-level technical experimentation.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Core
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-### Backend & Data
-
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+### APIs & Backend
+
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json)
 
@@ -97,7 +67,7 @@ Currently exploring **C++ and Unreal Engine** for game development, systems prog
 
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
 
-### DevOps & Infrastructure
+### Infrastructure & DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
@@ -113,52 +83,165 @@ Currently exploring **C++ and Unreal Engine** for game development, systems prog
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge)
 ![VPS](https://img.shields.io/badge/VPS-000?style=for-the-badge&logo=linux)
 
-### AI Engineering
+### AI
 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-000?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-000?style=for-the-badge)
-![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-000?style=for-the-badge)
+![Developer Tooling & Spec Driven](https://img.shields.io/badge/Developer_Tooling-000?style=for-the-badge)
 
-### Design & Product
+### Product & Design
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![Gamification](https://img.shields.io/badge/Gamification-000?style=for-the-badge)
 ![Product Engineering](https://img.shields.io/badge/Product_Engineering-000?style=for-the-badge)
 
-### Exploring
+### Currently Exploring
 
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000?style=for-the-badge&logo=unrealengine)
 
 ---
+## Core Areas
 
-## Current Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Software architecture
-- Backend engineering
-- Full Stack application development
-- APIs and system integrations
-- PostgreSQL and data modeling
-- AI Engineering
-- LLM integration
+### Software Engineering
+
+- Full Stack applications
+- Backend architecture
+- REST APIs
+- Authentication & authorization
+- System integrations
+- PostgreSQL
+- Internal platforms
+- Refactoring & application evolution
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure & Operations
+
+- Linux environments
+- Docker
+- Nginx
+- VPS & cloud infrastructure
+- DNS & SSL/TLS
+- Cloudflare
+- CI/CD
+- Production monitoring
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI Engineering
+
+- LLM integrations
 - AI agents
 - Workflow automation
+- AI-assisted engineering
 - Developer tooling
-- Cloud infrastructure
-- Linux environments
-- Dockerized deployments
-- Application security
-- CI/CD pipelines
-- Observability and monitoring
-- Product engineering
+- Internal AI tools
+- API-based AI integrations
+
+</td>
+<td width="50%" valign="top">
+
+### Product Engineering
+
+- Technical leadership
+- Product architecture
+- Technical feasibility
 - Gamification
-- C++ and Unreal Engine
+- UI/UX prototyping
+- Digital products
+- Technology strategy
+
+</td>
+</tr>
+</table>
+
+---
+## Current Focus
+
+```text
+Software Engineering
+│
+├── Backend Architecture
+├── APIs & Integrations
+├── PostgreSQL
+├── Application Security
+│
+├── Infrastructure
+│   ├── Linux
+│   ├── Docker
+│   ├── Cloud
+│   ├── CI/CD
+│   └── Observability
+│
+├── AI Engineering
+│   ├── LLM Integration
+│   ├── AI Agents
+│   ├── Automation
+│   └── Developer Tooling
+│
+├── Product Engineering
+│   └── Gamification
+│
+└── Exploring
+    ├── C++
+    └── Unreal Engine
+```
 
 ---
 
-## Engineering Interests
+## Engineering Approach
+
+I prefer to understand the complete lifecycle of a system instead of treating development, infrastructure and production as isolated concerns.
+
+```text
+Business Requirement
+        │
+        ▼
+Problem Analysis
+        │
+        ▼
+Technical Design
+        │
+        ▼
+Architecture
+        │
+        ▼
+Implementation
+        │
+        ▼
+Testing
+        │
+        ▼
+Deployment
+        │
+        ▼
+Observability
+        │
+        ▼
+Iteration
+```
+
+> **Build systems that are understandable, maintainable and reliable before making them unnecessarily complex.**
+
+---
+
+<details>
+<summary><strong>Engineering Interests</strong></summary>
+
+<br>
 
 ```text
 Software Engineering
@@ -200,3 +283,51 @@ Infrastructure
 Exploring
 ├── C++
 └── Unreal Engine
+```
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Engineering Principles</strong></summary>
+
+<br>
+
+- Understand the problem before choosing the technology
+- Prefer maintainability over unnecessary complexity
+- Keep responsibilities clearly separated
+- Treat security as part of software development
+- Design APIs with explicit contracts
+- Automate repetitive engineering work
+- Keep infrastructure reproducible
+- Test critical application flows
+- Monitor production systems
+- Measure before optimizing
+- Document important technical decisions
+- Build products, not isolated features
+
+</details>
+
+---
+
+## Beyond Code
+
+<div align="center">
+
+**Now playing**
+
+<br><br>
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oyhnprje2dovy7m3arslf5gqim&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b400f5&bar_color_cover=false&mode=dark"
+    alt="Spotify Now Playing"
+  />
+</a>
+
+<br><br>
+
+`Software Engineering` · `Product Engineering` · `AI Engineering`
+
+</div>
