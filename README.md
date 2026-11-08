@@ -48,6 +48,17 @@ Currently exploring **C++ and Unreal Engine** for game development, real-time sy
 
 ---
 
+## Selected Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [CSV Lens](https://github.com/michel-brotherhood/csv-lens) | Explore CSV files locally with search, sorting, pagination and filtered export. | Vanilla JavaScript |
+| [Farol](https://github.com/michel-brotherhood/farol-monitor) | Check HTTP endpoint availability and latency with local history and CLI output. Early-stage project. | Dart |
+
+See each repository for setup instructions, limitations and contribution guidelines.
+
+---
+
 ## Tech Stack
 
 ### Core
